@@ -397,7 +397,7 @@ border-radius: 6px;
     background-color: #ecdd0a;
 }
 .skills-python{
-    width: 85%;
+    width: 90%;
     background-color: #4084d9;
 }
 .skills-dsa{
@@ -409,11 +409,11 @@ border-radius: 6px;
     background-color: #6d0ac0;
 }
 .skills-java{
-    width: 70%;
+    width: 50%;
     background-color: #404cce;
 }
 .skills-django{
-    width: 75%;
+    width: 80%;
     background-color: #37492e;
 }
 .skills-sql{
