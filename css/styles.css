@@ -393,7 +393,7 @@ border-radius: 6px;
     background-color: #0a26ec;
 }
 .skills-js{
-    width: 60%;
+    width: 50%;
     background-color: #ecdd0a;
 }
 .skills-python{
@@ -403,6 +403,10 @@ border-radius: 6px;
 .skills-dsa{
     width: 80%;
     background-color: #28272d;
+}
+.skills-oop{
+    width: 70%;
+    background-color: #5e635d;
 }
 .skills-bootstrap{
     width: 80%;
@@ -417,7 +421,7 @@ border-radius: 6px;
     background-color: #37492e;
 }
 .skills-sql{
-    width: 50%;
+    width: 70%;
     background-color: #0a8df6;
 }
 .skills-vs{
@@ -427,6 +431,10 @@ border-radius: 6px;
 .skills-jquery{
     width: 50%;
     background-color: #4F84CE;
+}
+.skills-ml{
+    width: 30%;
+    background-color: #cb77bd;
 }
 .skills-ps{
     width: 85%;
